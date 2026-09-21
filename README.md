@@ -22,7 +22,6 @@ O projeto cumpre todos os requisitos solicitados:
 - [x] **Navegação:** Link interno (âncora) para navegação na própria página e link externo.
 - [x] **Imagem:** Imagem temática do universo de retrogaming.
 - [x] **Tabela:** Tabela simples de produtos e preços (mínimo de 3 itens).
-- [x] **Limite de Linhas:** Código final otimizado com menos de 50 linhas.
 
 ---
 
